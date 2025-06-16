@@ -53,11 +53,3 @@ Recommend best- and worst-performing districts based on cleanliness, enforcement
 *Assessing community well-being through property maintenance complaints.*
 
 ---
-
-### 👥 Authors
-
-- Miao Zheng  
-- Balbir Singh  
-- Nasim Ranjbari  
-- Alvin Lee  
-- Sahil Walia
